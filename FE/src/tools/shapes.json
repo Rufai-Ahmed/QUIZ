@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "shape": "./assets/shapes/star.png",
+    "ans": "star"
+  },
+  {
+    "id": "2",
+    "shape": "./assets/shapes/circle.png",
+    "ans": "circle"
+  },
+  {
+    "id": "3",
+    "shape": "./assets/shapes/rect.png",
+    "ans": "rectangle"
+  },
+  {
+    "id": "4",
+    "shape": "./assets/shapes/square.png",
+    "ans": "square"
+  },
+  {
+    "id": "5",
+    "shape": "./assets/shapes/triangle.png",
+    "ans": "triangle"
+  }
+]

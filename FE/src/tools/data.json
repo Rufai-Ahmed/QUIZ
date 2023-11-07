@@ -1,0 +1,10 @@
+[
+  { "id": "/Mathematics", "ImgTxt": "Mathematics", "Img": "./assets/Math.jpg" },
+  { "id": "/English", "ImgTxt": "English", "Img": "./assets/english.avif" },
+  { "id": "/Shapes", "ImgTxt": "Shapes", "Img": "./assets/shapesQuiz.avif" },
+  {
+    "id": "/CrossWord",
+    "ImgTxt": "Cross Word",
+    "Img": "./assets/crossWord.jpg"
+  }
+]
