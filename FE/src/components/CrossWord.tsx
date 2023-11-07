@@ -65,27 +65,6 @@ export const CrossWord = () => {
   );
 };
 
-const C = styled.div`
-  position: absolute;
-  top: 30px;
-  font-size: 40px;
-  color: white;
-`;
-
-const Equal = styled.div`
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 5px;
-  color: white;
-`;
-
-const Num = styled.div`
-  font-size: 50px;
-`;
-
 const Item = styled.div`
   background-color: white;
   width: 50px;
@@ -112,17 +91,6 @@ const Grid = styled.div`
 const Txt = styled.div`
   font-size: 20px;
   color: white;
-`;
-
-const DNDHolder = styled.div<{ w: string }>`
-  width: ${({ w }) => w};
-  height: 100%;
-  background-color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 5px;
 `;
 
 const Holder = styled.div`

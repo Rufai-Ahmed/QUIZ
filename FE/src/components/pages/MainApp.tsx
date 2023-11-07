@@ -1,6 +1,5 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import styled from "styled-components";
-import img from "../assets/pic.jpg";
 import { getKids, sortedKids } from "../../api/API";
 import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
 import lodash from "lodash";
